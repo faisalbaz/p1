@@ -24,7 +24,7 @@
             </p>
             <p>I was born and raised in Pakistan. I moved to USA in 2009 and joined U.S Army in 2011. I have been working in U.S Military (Army, California National Guard) since then. I worked in Environmental Health Sciences and Computer management fields in Military. I like to work on different aspects of Computer Science (Programming, Designing and Network Administration. I study religious and Computer books in my spare time.</p>
             <p>I've been a web developer,systems administrator, and network engineer
-               for more than 13 years. I'm currently working as Web Developer in California Military Department in Sacramento, CA. I am very interested in learning new technologies than can help me progress in my career.
+               for more than 13 years. I'm currently working as Web Developer in California Military Department in Sacramento, CA. I am very interested in learning new technologies that can help me progress in my career.
             </p>
          </div>
       </div>
