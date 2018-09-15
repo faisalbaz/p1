@@ -29,6 +29,7 @@
          </div>
       </div>
       <hr />
+	   <h2 style="text-align:center;">Random Quote</h2>
       <blockquote>
          <p>
             <?php echo $randomQuote; ?>
